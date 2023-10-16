@@ -1,4 +1,4 @@
-name: Publish docs via GitHub
+name: Publish Github docs
 on:
   workflow_dispatch:
   push:
