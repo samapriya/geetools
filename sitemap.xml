@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://geetools.xyz/</loc>
+         <lastmod>2023-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://geetools.xyz/projects/cogee/</loc>
+         <lastmod>2023-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://geetools.xyz/projects/geeadd/</loc>
+         <lastmod>2023-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://geetools.xyz/projects/geeup/</loc>
+         <lastmod>2023-10-16</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
