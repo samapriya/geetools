@@ -37,8 +37,8 @@ theme:
   language: en
   palette:
     - scheme: default
-      primary: teal
-      accent: red
+      primary: orange
+      accent: dark blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -73,7 +73,6 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - social:
   - search
   - git-revision-date-localized:
       enable_creation_date: true
@@ -132,4 +131,3 @@ nav:
   - GEE Asset Ingest & Registration tools:
       - geeup - Simple CLI for Earth Engine Uploads: projects/geeup.md
       - cogee - Simple CLI for COGs in GEE: projects/cogee.md
-  - Citations: citations.md
