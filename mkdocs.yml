@@ -4,8 +4,9 @@ site_author: Samapriya Roy
 site_url: https://geetools.xyz
 
 # Repository
-repo_name: devkit
-repo_url: https://github.com/gee-tools/devkit
+repo_name: geetooks
+repo_url: https://github.com/samapriya/geetools
+edit_uri: blob/main/docs/
 
 # Copyright
 copyright: "Copyright &copy; 2023 - 2024 Samapriya Roy"
